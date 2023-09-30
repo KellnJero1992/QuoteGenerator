@@ -1,1 +1,1 @@
-# ImageSlider
+# QuoteGenerator
